@@ -1,0 +1,390 @@
+﻿TCGA-49-4506;LUAD;68;FEMALE;Stage IIB;Lung Adenocarcinoma;1997;Dead;[Discrepancy];999;Locoregional Recurrence;692;Complete Remission/Response
+TCGA-49-AAR3;LUAD;69;MALE;Stage IIB;Lung Adenocarcinoma;2008;Alive;[Discrepancy];#N/A;Locoregional Recurrence;1893;Complete Remission/Response
+TCGA-49-AARQ;LUAD;41;FEMALE;Stage I;Lung Adenocarcinoma;1996;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-L4-A4E5;LUAD;48;FEMALE;Stage I;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-8552;LUAD;55;FEMALE;Stage I;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-69-7980;LUAD;70;FEMALE;Stage I;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M6;LUAD;45;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-99-8028;LUAD;50;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-7672;LUAD;52;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M1;LUAD;52;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-67-6216;LUAD;57;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-73-7498;LUAD;58;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-7553;LUAD;58;FEMALE;Stage IA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-6840;LUAD;59;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6776;LUAD;60;FEMALE;Stage IA;Lung Adenocarcinoma;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6543;LUAD;60;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8097;LUAD;60;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-L9-A444;LUAD;60;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-5645;LUAD;61;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8668;LUAD;61;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6145;LUAD;62;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-8457;LUAD;63;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-L9-A443;LUAD;63;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;193;#N/A;#N/A;Complete Remission/Response
+TCGA-44-2655;LUAD;65;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;New Primary Tumor;1009;Complete Remission/Response
+TCGA-73-4662;LUAD;65;FEMALE;Stage IA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;21;Complete Remission/Response
+TCGA-44-2664;LUAD;66;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;Distant Metastasis;813;Complete Remission/Response
+TCGA-J2-A4AG;LUAD;66;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6147;LUAD;67;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7725;LUAD;68;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-S2-AA1A;LUAD;68;FEMALE;Stage IA;Lung Adenocarcinoma;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-2661;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-5944;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8203;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-7953;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M3;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;New Primary Tumor;54;Complete Remission/Response
+TCGA-55-7911;LUAD;70;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;New Primary Tumor;515;Complete Remission/Response
+TCGA-55-A492;LUAD;70;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-99-AA5R;LUAD;70;FEMALE;Stage IA;Lung Adenocarcinoma;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MP-A4TH;LUAD;70;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7573;LUAD;72;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7726;LUAD;72;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-7941;LUAD;72;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A47G;LUAD;73;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7995;LUAD;73;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;468;Complete Remission/Response
+TCGA-55-1595;LUAD;74;FEMALE;Stage IA;Lung Adenocarcinoma;2004;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8621;LUAD;75;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-8497;LUAD;75;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;434;#N/A;#N/A;Complete Remission/Response
+TCGA-93-7348;LUAD;75;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-93-7347;LUAD;76;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-7938;LUAD;76;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Dead;TUMOR FREE;18;#N/A;#N/A;Complete Remission/Response
+TCGA-44-3398;LUAD;77;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-J2-A4AE;LUAD;77;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-A456;LUAD;78;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-4514;LUAD;79;FEMALE;Stage IA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A57B;LUAD;80;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A491;LUAD;81;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-6835;LUAD;81;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-5935;LUAD;86;FEMALE;Stage IA;Lung Adenocarcinoma;2006;Dead;TUMOR FREE;653;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8076;LUAD;42;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-93-A4JQ;LUAD;49;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8507;LUAD;53;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6980;LUAD;56;MALE;Stage IA;Lung Adenocarcinoma;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8089;LUAD;56;MALE;Stage IA;Lung Adenocarcinoma;2011;Dead;TUMOR FREE;702;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8206;LUAD;56;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-AAR0;LUAD;57;MALE;Stage IA;Lung Adenocarcinoma;2002;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MN-A4N4;LUAD;57;MALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-64-1676;LUAD;58;MALE;Stage IA;Lung Adenocarcinoma;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6778;LUAD;59;MALE;Stage IA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6148;LUAD;60;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7570;LUAD;60;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-99-8032;LUAD;61;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MN-A4N5;LUAD;63;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7903;LUAD;64;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8085;LUAD;64;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8669;LUAD;64;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;Distant Metastasis;849;Complete Remission/Response
+TCGA-97-A4M2;LUAD;66;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-95-7947;LUAD;67;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-L4-A4E6;LUAD;67;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-7659;LUAD;70;MALE;Stage IA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-6828;LUAD;70;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A4DG;LUAD;71;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-95-8039;LUAD;72;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;228;Complete Remission/Response
+TCGA-97-8179;LUAD;72;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A4SS;LUAD;73;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-8460;LUAD;74;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M7;LUAD;74;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8281;LUAD;75;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6987;LUAD;77;MALE;Stage IA;Lung Adenocarcinoma;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M5;LUAD;83;MALE;Stage IA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-3917;LUAD;33;FEMALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-69-7973;LUAD;42;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-95-7948;LUAD;42;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-5644;LUAD;51;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-67-6215;LUAD;52;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-6836;LUAD;52;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-8117;LUAD;54;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-A46R;LUAD;54;FEMALE;Stage IB;Lung Adenocarcinoma;2006;Dead;TUMOR FREE;1725;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8510;LUAD;55;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-8175;LUAD;55;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;294;Complete Remission/Response
+TCGA-55-6985;LUAD;58;FEMALE;Stage IB;Lung Adenocarcinoma;2004;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6971;LUAD;59;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8087;LUAD;59;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4M0;LUAD;60;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A494;LUAD;61;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-A4P7;LUAD;63;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-8496;LUAD;63;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7728;LUAD;64;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8075;LUAD;66;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Dead;TUMOR FREE;694;Locoregional Recurrence;199;Complete Remission/Response
+TCGA-86-7954;LUAD;68;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8514;LUAD;70;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-6590;LUAD;72;FEMALE;Stage IB;Lung Adenocarcinoma;2005;Dead;TUMOR FREE;1288;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A479;LUAD;73;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;New Primary Tumor;437;Complete Remission/Response
+TCGA-44-2657;LUAD;74;FEMALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6986;LUAD;74;FEMALE;Stage IB;Lung Adenocarcinoma;2004;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-8172;LUAD;75;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7724;LUAD;76;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MP-A5C7;LUAD;76;FEMALE;Stage IB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-A46V;LUAD;78;FEMALE;Stage IB;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-73-4658;LUAD;80;FEMALE;Stage IB;Lung Adenocarcinoma;2004;Dead;TUMOR FREE;1600;#N/A;#N/A;Complete Remission/Response
+TCGA-73-7499;LUAD;81;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Dead;TUMOR FREE;1531;Distant Metastasis;1447;Complete Remission/Response
+TCGA-44-6777;LUAD;85;FEMALE;Stage IB;Lung Adenocarcinoma;2006;Dead;TUMOR FREE;987;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8204;LUAD;87;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4420;LUAD;41;MALE;Stage IB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8358;LUAD;44;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7576;LUAD;54;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8302;LUAD;54;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8585;LUAD;57;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-8120;LUAD;58;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8073;LUAD;58;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-2656;LUAD;59;MALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;New Primary Tumor;568;Complete Remission/Response
+TCGA-64-5774;LUAD;60;MALE;Stage IB;Lung Adenocarcinoma;2004;Alive;TUMOR FREE;#N/A;#N/A;246;Complete Remission/Response
+TCGA-78-7163;LUAD;60;MALE;Stage IB;Lung Adenocarcinoma;1992;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-7662;LUAD;61;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8673;LUAD;61;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;636;Complete Remission/Response
+TCGA-86-7955;LUAD;62;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;820;Complete Remission/Response
+TCGA-55-6642;LUAD;63;MALE;Stage IB;Lung Adenocarcinoma;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-AAR2;LUAD;64;MALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-A46P;LUAD;65;MALE;Stage IB;Lung Adenocarcinoma;2006;Dead;TUMOR FREE;594;Distant Metastasis;267;Complete Remission/Response
+TCGA-91-6831;LUAD;66;MALE;Stage IB;Lung Adenocarcinoma;2001;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4382;LUAD;68;MALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;Distant Metastasis;334;Complete Remission/Response
+TCGA-05-4426;LUAD;71;MALE;Stage IB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;457;Complete Remission/Response
+TCGA-50-5066;LUAD;72;MALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;Distant Metastasis;477;Complete Remission/Response
+TCGA-55-6972;LUAD;72;MALE;Stage IB;Lung Adenocarcinoma;2005;Dead;TUMOR FREE;1632;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8207;LUAD;73;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8091;LUAD;74;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8614;LUAD;76;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-93-8067;LUAD;77;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A47B;LUAD;79;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-38-A44F;LUAD;80;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-A4LX;LUAD;81;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-50-5939;LUAD;85;MALE;Stage IB;Lung Adenocarcinoma;2008;Dead;TUMOR FREE;460;#N/A;#N/A;Complete Remission/Response
+TCGA-49-AAQV;LUAD;63;FEMALE;Stage II;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;677;Distant Metastasis;509;Complete Remission/Response
+TCGA-44-7670;LUAD;47;FEMALE;Stage IIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8280;LUAD;54;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-69-8253;LUAD;59;FEMALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8508;LUAD;60;FEMALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A48X;LUAD;63;FEMALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;New Primary Tumor;615;Complete Remission/Response
+TCGA-49-6744;LUAD;64;FEMALE;Stage IIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-6851;LUAD;73;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8279;LUAD;46;MALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-A4D0;LUAD;48;MALE;Stage IIA;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;116;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8674;LUAD;50;MALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;334;Complete Remission/Response
+TCGA-L9-A743;LUAD;56;MALE;Stage IIA;Lung Adenocarcinoma;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-5428;LUAD;57;MALE;Stage IIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-78-8640;LUAD;59;MALE;Stage IIA;Lung Adenocarcinoma;1994;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MN-A4N1;LUAD;60;MALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-A48Y;LUAD;69;MALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-L9-A7SV;LUAD;69;MALE;Stage IIA;Lung Adenocarcinoma;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-7713;LUAD;70;MALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-91-A4BD;LUAD;78;MALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8055;LUAD;79;MALE;Stage IIA;Lung Adenocarcinoma;2011;Dead;TUMOR FREE;124;#N/A;#N/A;Complete Remission/Response
+TCGA-44-7667;LUAD;49;FEMALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4427;LUAD;65;FEMALE;Stage IIB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-2659;LUAD;65;FEMALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;1146;Complete Remission/Response
+TCGA-62-8397;LUAD;70;FEMALE;Stage IIB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-A46U;LUAD;71;FEMALE;Stage IIB;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8619;LUAD;72;FEMALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8671;LUAD;72;FEMALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-1596;LUAD;55;MALE;Stage IIB;Lung Adenocarcinoma;2004;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8672;LUAD;59;MALE;Stage IIB;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;19;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8054;LUAD;61;MALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MP-A4SY;LUAD;61;MALE;Stage IIB;Lung Adenocarcinoma;2002;Dead;TUMOR FREE;1501;Locoregional Recurrence;489;Complete Remission/Response
+TCGA-91-7771;LUAD;62;MALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6146;LUAD;64;MALE;Stage IIB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;631;Complete Remission/Response
+TCGA-62-A471;LUAD;64;MALE;Stage IIB;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4432;LUAD;66;MALE;Stage IIB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-8119;LUAD;73;MALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A47F;LUAD;74;MALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-64-5815;LUAD;74;MALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6983;LUAD;81;MALE;Stage IIB;Lung Adenocarcinoma;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7994;LUAD;81;MALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-6981;LUAD;53;FEMALE;Stage IIIA;Lung Adenocarcinoma;2005;Dead;TUMOR FREE;1379;#N/A;#N/A;Complete Remission/Response
+TCGA-50-5941;LUAD;55;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-6774;LUAD;56;FEMALE;Stage IIIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-64-1679;LUAD;58;FEMALE;Stage IIIA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-A4P8;LUAD;59;FEMALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-86-8056;LUAD;63;FEMALE;Stage IIIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-6761;LUAD;68;FEMALE;Stage IIIA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-99-8025;LUAD;72;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-44-3396;LUAD;74;FEMALE;Stage IIIA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MP-A4T6;LUAD;76;FEMALE;Stage IIIA;Lung Adenocarcinoma;2005;Dead;TUMOR FREE;1790;#N/A;#N/A;Complete Remission/Response
+TCGA-97-8547;LUAD;78;FEMALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-6743;LUAD;81;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-97-7554;LUAD;83;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-8398;LUAD;55;MALE;Stage IIIA;Lung Adenocarcinoma;2007;Dead;TUMOR FREE;444;#N/A;#N/A;Complete Remission/Response
+TCGA-91-6848;LUAD;59;MALE;Stage IIIA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-8505;LUAD;62;MALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-8399;LUAD;62;MALE;Stage IIIA;Lung Adenocarcinoma;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7727;LUAD;70;MALE;Stage IIIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MP-A4TC;LUAD;77;MALE;Stage IIIA;Lung Adenocarcinoma;2008;Dead;TUMOR FREE;74;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4398;LUAD;47;FEMALE;Stage IIIB;Lung Adenocarcinoma;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-62-8394;LUAD;65;FEMALE;Stage IIIB;Lung Adenocarcinoma;2008;Dead;TUMOR FREE;139;#N/A;#N/A;Complete Remission/Response
+TCGA-50-5933;LUAD;72;MALE;Stage IIIB;Lung Adenocarcinoma;2001;Dead;TUMOR FREE;2393;#N/A;#N/A;Complete Remission/Response
+TCGA-73-4666;LUAD;52;FEMALE;Stage IV;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-05-4402;LUAD;57;FEMALE;Stage IV;Lung Adenocarcinoma;2007;Dead;TUMOR FREE;244;#N/A;#N/A;Complete Remission/Response
+TCGA-64-1680;LUAD;63;MALE;Stage IV;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-49-AARO;LUAD;39;FEMALE;Stage IA;Lung Adenocarcinoma;2003;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;1144;Complete Remission/Response
+TCGA-49-AARE;LUAD;51;FEMALE;Stage IA;Lung Adenocarcinoma;1999;Dead;WITH TUMOR;1229;Locoregional Recurrence;388;Complete Remission/Response
+TCGA-44-3918;LUAD;60;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;#N/A;511;Complete Remission/Response
+TCGA-55-7913;LUAD;61;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;561;Distant Metastasis;480;Complete Remission/Response
+TCGA-55-8299;LUAD;61;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;469;Distant Metastasis;274;Complete Remission/Response
+TCGA-95-7043;LUAD;63;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;503;#N/A;#N/A;Complete Remission/Response
+TCGA-44-A4SU;LUAD;67;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;409;Locoregional Recurrence;260;Complete Remission/Response
+TCGA-55-7281;LUAD;70;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;339;Complete Remission/Response
+TCGA-44-3919;LUAD;71;FEMALE;Stage IA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;1026;Locoregional Recurrence;921;Complete Remission/Response
+TCGA-38-7271;LUAD;72;FEMALE;Stage IA;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;800;#N/A;304;Complete Remission/Response
+TCGA-49-4487;LUAD;72;FEMALE;Stage IA;Lung Adenocarcinoma;1992;Dead;WITH TUMOR;855;#N/A;697;Complete Remission/Response
+TCGA-55-8208;LUAD;73;FEMALE;Stage IA;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;511;Complete Remission/Response
+TCGA-MP-A4TA;LUAD;75;FEMALE;Stage IA;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;950;Distant Metastasis;725;Complete Remission/Response
+TCGA-44-6144;LUAD;58;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;#N/A;399;Complete Remission/Response
+TCGA-55-1592;LUAD;65;MALE;Stage IA;Lung Adenocarcinoma;2005;Dead;WITH TUMOR;701;#N/A;452;Complete Remission/Response
+TCGA-49-AARR;LUAD;68;MALE;Stage IA;Lung Adenocarcinoma;2001;Alive;WITH TUMOR;#N/A;New Primary Tumor;1099;Complete Remission/Response
+TCGA-MP-A4T2;LUAD;71;MALE;Stage IA;Lung Adenocarcinoma;2003;Dead;WITH TUMOR;1136;Distant Metastasis;575;Complete Remission/Response
+TCGA-49-4486;LUAD;72;MALE;Stage IA;Lung Adenocarcinoma;1992;Dead;WITH TUMOR;2318;Distant Metastasis;2045;Complete Remission/Response
+TCGA-55-8090;LUAD;80;MALE;Stage IA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;598;Distant Metastasis;548;Complete Remission/Response
+TCGA-55-A4DF;LUAD;88;MALE;Stage IA;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;614;Distant Metastasis;515;Complete Remission/Response
+TCGA-44-4112;LUAD;60;FEMALE;Stage IB;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;808;#N/A;619;Complete Remission/Response
+TCGA-71-8520;LUAD;60;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;210;Locoregional Recurrence;179;Complete Remission/Response
+TCGA-55-7574;LUAD;64;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;995;Distant Metastasis;478;Complete Remission/Response
+TCGA-62-A46O;LUAD;65;FEMALE;Stage IB;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;1454;Locoregional Recurrence|Distant Metastasis;943;Complete Remission/Response
+TCGA-49-4501;LUAD;67;FEMALE;Stage IB;Lung Adenocarcinoma;1996;Dead;WITH TUMOR;1421;#N/A;545;Complete Remission/Response
+TCGA-55-8096;LUAD;67;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;719;Distant Metastasis;566;Complete Remission/Response
+TCGA-44-7661;LUAD;69;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;557;Locoregional Recurrence;335;Complete Remission/Response
+TCGA-44-6775;LUAD;72;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;684;Complete Remission/Response
+TCGA-55-8511;LUAD;73;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;#N/A;460;Complete Remission/Response
+TCGA-38-4630;LUAD;75;FEMALE;Stage IB;Lung Adenocarcinoma;2000;Dead;WITH TUMOR;1073;#N/A;524;Complete Remission/Response
+TCGA-44-A47A;LUAD;78;FEMALE;Stage IB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;397;Complete Remission/Response
+TCGA-44-2668;LUAD;51;MALE;Stage IB;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;761;#N/A;433;Complete Remission/Response
+TCGA-55-8301;LUAD;58;MALE;Stage IB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;238;Complete Remission/Response
+TCGA-64-5778;LUAD;60;MALE;Stage IB;Lung Adenocarcinoma;2008;Alive;WITH TUMOR;#N/A;Distant Metastasis;962;Complete Remission/Response
+TCGA-44-7671;LUAD;64;MALE;Stage IB;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;883;Complete Remission/Response
+TCGA-78-7152;LUAD;65;MALE;Stage IB;Lung Adenocarcinoma;2003;Dead;WITH TUMOR;1215;#N/A;1202;Complete Remission/Response
+TCGA-78-7633;LUAD;67;MALE;Stage IB;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;1528;Locoregional Recurrence;1450;Complete Remission/Response
+TCGA-62-A46S;LUAD;73;MALE;Stage IB;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;1653;Locoregional Recurrence|Distant Metastasis;527;Complete Remission/Response
+TCGA-55-7815;LUAD;76;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;466;Complete Remission/Response
+TCGA-62-A470;LUAD;84;MALE;Stage IB;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;1194;Locoregional Recurrence;539;Complete Remission/Response
+TCGA-55-7910;LUAD;50;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;#N/A;1018;Complete Remission/Response
+TCGA-MP-A4TE;LUAD;56;MALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;896;Locoregional Recurrence;226;Complete Remission/Response
+TCGA-44-7669;LUAD;59;MALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;574;#N/A;390;Complete Remission/Response
+TCGA-L9-A50W;LUAD;75;MALE;Stage IIA;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;442;Distant Metastasis;389;Complete Remission/Response
+TCGA-55-7907;LUAD;77;MALE;Stage IIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;343;Distant Metastasis;294;Complete Remission/Response
+TCGA-95-7039;LUAD;54;FEMALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;1258;Complete Remission/Response
+TCGA-MP-A4TK;LUAD;56;FEMALE;Stage IIB;Lung Adenocarcinoma;2002;Dead;WITH TUMOR;582;Distant Metastasis;397;Complete Remission/Response
+TCGA-49-4505;LUAD;61;FEMALE;Stage IIB;Lung Adenocarcinoma;1996;Dead;WITH TUMOR;428;Distant Metastasis|New Primary Tumor;417;Complete Remission/Response
+TCGA-86-8278;LUAD;63;FEMALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;#N/A;29;Complete Remission/Response
+TCGA-38-4628;LUAD;65;FEMALE;Stage IIB;Lung Adenocarcinoma;2002;Dead;WITH TUMOR;1492;#N/A;1083;Complete Remission/Response
+TCGA-73-4668;LUAD;66;FEMALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;WITH TUMOR;#N/A;#N/A;236;Complete Remission/Response
+TCGA-55-6984;LUAD;71;FEMALE;Stage IIB;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;760;#N/A;724;Complete Remission/Response
+TCGA-55-8513;LUAD;77;FEMALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;317;Complete Remission/Response
+TCGA-62-8395;LUAD;80;FEMALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;395;Complete Remission/Response
+TCGA-86-A4JF;LUAD;56;MALE;Stage IIB;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;737;Distant Metastasis;436;Complete Remission/Response
+TCGA-38-4629;LUAD;68;MALE;Stage IIB;Lung Adenocarcinoma;2003;Dead;WITH TUMOR;864;#N/A;379;Complete Remission/Response
+TCGA-62-A472;LUAD;70;MALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;290;Complete Remission/Response
+TCGA-55-7284;LUAD;74;MALE;Stage IIB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;243;Distant Metastasis;231;Complete Remission/Response
+TCGA-55-8092;LUAD;75;MALE;Stage IIB;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;154;Locoregional Recurrence;127;Complete Remission/Response
+TCGA-MP-A4T9;LUAD;54;FEMALE;Stage IIIA;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;1265;Locoregional Recurrence|Distant Metastasis;341;Complete Remission/Response
+TCGA-62-A46Y;LUAD;70;FEMALE;Stage IIIA;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;414;Distant Metastasis;314;Complete Remission/Response
+TCGA-62-8402;LUAD;73;FEMALE;Stage IIIA;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;1498;Distant Metastasis;772;Complete Remission/Response
+TCGA-55-8615;LUAD;67;MALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;224;Complete Remission/Response
+TCGA-49-4494;LUAD;77;MALE;Stage IIIA;Lung Adenocarcinoma;1995;Dead;WITH TUMOR;1081;#N/A;#N/A;Complete Remission/Response
+TCGA-55-7227;LUAD;77;MALE;Stage IIIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;952;Locoregional Recurrence;255;Complete Remission/Response
+TCGA-38-4632;LUAD;42;MALE;Stage IV;Lung Adenocarcinoma;1998;Dead;WITH TUMOR;1357;#N/A;680;Complete Remission/Response
+TCGA-86-7701;LUAD;66;MALE;Stage IV;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;424;Complete Remission/Response
+TCGA-05-4417;LUAD;51;FEMALE;Stage IB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Partial Remission/Response
+TCGA-50-6597;LUAD;79;FEMALE;Stage IB;Lung Adenocarcinoma;2007;Dead;TUMOR FREE;1268;#N/A;#N/A;Partial Remission/Response
+TCGA-MP-A4TF;LUAD;58;FEMALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;336;Distant Metastasis;195;Partial Remission/Response
+TCGA-55-7283;LUAD;76;FEMALE;Stage IIIA;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Partial Remission/Response
+TCGA-93-A4JP;LUAD;64;MALE;Stage IV;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;497;Partial Remission/Response
+TCGA-64-5781;LUAD;55;FEMALE;Stage IB;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;96;Progressive Disease
+TCGA-05-4390;LUAD;58;FEMALE;Stage IB;Lung Adenocarcinoma;2005;Alive;TUMOR FREE;#N/A;#N/A;395;Progressive Disease
+TCGA-44-2662;LUAD;65;MALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;245;Progressive Disease
+TCGA-91-6829;LUAD;78;MALE;Stage IB;Lung Adenocarcinoma;2001;Dead;TUMOR FREE;1258;#N/A;#N/A;Progressive Disease
+TCGA-J2-8192;LUAD;65;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;Locoregional Recurrence;482;Progressive Disease
+TCGA-73-4675;LUAD;59;MALE;Stage IIIA;Lung Adenocarcinoma;2010;Dead;TUMOR FREE;922;Locoregional Recurrence;361;Progressive Disease
+TCGA-53-7813;LUAD;51;FEMALE;Stage IIIB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-4B-A93V;LUAD;52;FEMALE;Stage IA;Lung Adenocarcinoma;2013;Dead;WITH TUMOR;300;Distant Metastasis;251;Progressive Disease
+TCGA-97-7546;LUAD;76;FEMALE;Stage IA;Lung Adenocarcinoma;2008;Alive;WITH TUMOR;#N/A;New Primary Tumor;1255;Progressive Disease
+TCGA-50-7109;LUAD;60;MALE;Stage IA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;308;Distant Metastasis;15;Progressive Disease
+TCGA-50-5946;LUAD;62;MALE;Stage IA;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;Distant Metastasis;221;Progressive Disease
+TCGA-50-5049;LUAD;70;MALE;Stage IA;Lung Adenocarcinoma;2006;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;1568;Progressive Disease
+TCGA-71-6725;LUAD;48;FEMALE;Stage IB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;164;Progressive Disease
+TCGA-91-6847;LUAD;62;FEMALE;Stage IB;Lung Adenocarcinoma;2002;Alive;WITH TUMOR;#N/A;Distant Metastasis;772;Progressive Disease
+TCGA-97-7547;LUAD;67;FEMALE;Stage IB;Lung Adenocarcinoma;2007;Alive;WITH TUMOR;#N/A;#N/A;775;Progressive Disease
+TCGA-50-6592;LUAD;71;FEMALE;Stage IB;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;777;#N/A;#N/A;Progressive Disease
+TCGA-38-4631;LUAD;72;FEMALE;Stage IB;Lung Adenocarcinoma;1997;Dead;WITH TUMOR;354;#N/A;#N/A;Progressive Disease
+TCGA-50-5931;LUAD;75;FEMALE;Stage IB;Lung Adenocarcinoma;2001;Dead;WITH TUMOR;434;Distant Metastasis;425;Progressive Disease
+TCGA-44-7660;LUAD;72;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;253;Progressive Disease
+TCGA-55-7914;LUAD;71;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;187;#N/A;#N/A;Progressive Disease
+TCGA-67-6217;LUAD;73;FEMALE;Stage IIA;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;#N/A;296;Progressive Disease
+TCGA-53-7626;LUAD;76;FEMALE;Stage IIA;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;929;Locoregional Recurrence;865;Progressive Disease
+TCGA-55-8205;LUAD;76;FEMALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;495;Progressive Disease
+TCGA-86-6562;LUAD;52;MALE;Stage IIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;376;#N/A;274;Progressive Disease
+TCGA-49-6742;LUAD;70;MALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;488;#N/A;214;Progressive Disease
+TCGA-86-7711;LUAD;70;MALE;Stage IIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;1046;#N/A;#N/A;Progressive Disease
+TCGA-55-6712;LUAD;71;MALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;171;#N/A;#N/A;Progressive Disease
+TCGA-55-6978;LUAD;81;MALE;Stage IIA;Lung Adenocarcinoma;2010;Dead;WITH TUMOR;176;#N/A;42;Progressive Disease
+TCGA-44-6779;LUAD;50;FEMALE;Stage IIB;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;500;#N/A;232;Progressive Disease
+TCGA-50-5068;LUAD;59;FEMALE;Stage IIB;Lung Adenocarcinoma;2003;Dead;WITH TUMOR;1499;Distant Metastasis;686;Progressive Disease
+TCGA-55-6979;LUAD;59;FEMALE;Stage IIB;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;237;Distant Metastasis;195;Progressive Disease
+TCGA-78-7161;LUAD;69;FEMALE;Stage IIB;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;291;#N/A;162;Progressive Disease
+TCGA-J2-8194;LUAD;69;FEMALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;470;Progressive Disease
+TCGA-55-6982;LUAD;79;FEMALE;Stage IIB;Lung Adenocarcinoma;2004;Dead;WITH TUMOR;995;Distant Metastasis;183;Progressive Disease
+TCGA-73-A9RS;LUAD;41;MALE;Stage IIB;Lung Adenocarcinoma;2013;Dead;WITH TUMOR;340;Locoregional Recurrence;107;Progressive Disease
+TCGA-49-AAR9;LUAD;61;MALE;Stage IIB;Lung Adenocarcinoma;1999;Dead;WITH TUMOR;260;#N/A;#N/A;Progressive Disease
+TCGA-55-6975;LUAD;61;MALE;Stage IIB;Lung Adenocarcinoma;2004;Dead;WITH TUMOR;118;#N/A;#N/A;Progressive Disease
+TCGA-50-8459;LUAD;68;MALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;432;Progressive Disease
+TCGA-05-4424;LUAD;70;MALE;Stage IIB;Lung Adenocarcinoma;2008;Alive;WITH TUMOR;#N/A;Distant Metastasis;153;Progressive Disease
+TCGA-50-5932;LUAD;75;MALE;Stage IIB;Lung Adenocarcinoma;2001;Dead;WITH TUMOR;1235;Locoregional Recurrence;1090;Progressive Disease
+TCGA-50-5051;LUAD;42;FEMALE;Stage IIIA;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;478;Distant Metastasis;184;Progressive Disease
+TCGA-50-6593;LUAD;49;FEMALE;Stage IIIA;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;336;Distant Metastasis;266;Progressive Disease
+TCGA-69-7974;LUAD;54;FEMALE;Stage IIIA;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-49-4512;LUAD;69;FEMALE;Stage IIIA;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;905;#N/A;#N/A;Progressive Disease
+TCGA-49-4507;LUAD;73;FEMALE;Stage IIIA;Lung Adenocarcinoma;1997;Dead;WITH TUMOR;268;#N/A;158;Progressive Disease
+TCGA-50-6595;LUAD;74;FEMALE;Stage IIIA;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;189;Distant Metastasis;182;Progressive Disease
+TCGA-50-6594;LUAD;79;FEMALE;Stage IIIA;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;370;Distant Metastasis;285;Progressive Disease
+TCGA-50-5930;LUAD;47;MALE;Stage IIIA;Lung Adenocarcinoma;2001;Dead;WITH TUMOR;282;Distant Metastasis;177;Progressive Disease
+TCGA-50-5936;LUAD;58;MALE;Stage IIIA;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;257;#N/A;150;Progressive Disease
+TCGA-05-4384;LUAD;66;MALE;Stage IIIA;Lung Adenocarcinoma;2009;Alive;WITH TUMOR;#N/A;Distant Metastasis;183;Progressive Disease
+TCGA-73-4659;LUAD;66;MALE;Stage IIIA;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;711;#N/A;35;Progressive Disease
+TCGA-05-5420;LUAD;67;MALE;Stage IIIA;Lung Adenocarcinoma;2008;Alive;WITH TUMOR;#N/A;#N/A;245;Progressive Disease
+TCGA-78-7536;LUAD;69;MALE;Stage IIIA;Lung Adenocarcinoma;2001;Dead;WITH TUMOR;244;#N/A;231;Progressive Disease
+TCGA-64-5775;LUAD;71;MALE;Stage IIIA;Lung Adenocarcinoma;2005;Dead;WITH TUMOR;62;#N/A;#N/A;Progressive Disease
+TCGA-50-5072;LUAD;74;MALE;Stage IIIA;Lung Adenocarcinoma;2009;Dead;WITH TUMOR;250;Distant Metastasis;213;Progressive Disease
+TCGA-78-7158;LUAD;59;FEMALE;Stage IIIB;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;179;#N/A;132;Progressive Disease
+TCGA-50-5044;LUAD;72;FEMALE;Stage IIIB;Lung Adenocarcinoma;2002;Dead;WITH TUMOR;624;Distant Metastasis;483;Progressive Disease
+TCGA-05-4415;LUAD;57;MALE;Stage IIIB;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;91;#N/A;60;Progressive Disease
+TCGA-53-7624;LUAD;40;FEMALE;Stage IV;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;1043;Distant Metastasis;400;Progressive Disease
+TCGA-L9-A5IP;LUAD;40;FEMALE;Stage IV;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;58;Locoregional Recurrence|Distant Metastasis;49;Progressive Disease
+TCGA-55-7816;LUAD;49;FEMALE;Stage IV;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;468;#N/A;#N/A;Progressive Disease
+TCGA-50-6591;LUAD;63;FEMALE;Stage IV;Lung Adenocarcinoma;2007;Dead;WITH TUMOR;119;#N/A;#N/A;Progressive Disease
+TCGA-99-8033;LUAD;74;FEMALE;Stage IV;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;656;#N/A;#N/A;Progressive Disease
+TCGA-55-8512;LUAD;41;MALE;Stage IV;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;607;#N/A;#N/A;Progressive Disease
+TCGA-55-8094;LUAD;51;MALE;Stage IV;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-55-8620;LUAD;60;MALE;Stage IV;Lung Adenocarcinoma;2012;Dead;WITH TUMOR;375;#N/A;#N/A;Progressive Disease
+TCGA-97-8171;LUAD;81;MALE;Stage IV;Lung Adenocarcinoma;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;441;Progressive Disease
+TCGA-NJ-A4YF;LUAD;50;FEMALE;Stage IA;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-83-5908;LUAD;59;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A4YQ;LUAD;69;FEMALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A55R;LUAD;67;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-95-7944;LUAD;71;MALE;Stage IA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A55A;LUAD;76;FEMALE;Stage IB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A4YP;LUAD;52;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-97-7937;LUAD;65;MALE;Stage IB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A4YG;LUAD;65;MALE;Stage IB;Lung Adenocarcinoma;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-97-7552;LUAD;70;MALE;Stage IB;Lung Adenocarcinoma;2007;Alive;TUMOR FREE;#N/A;#N/A;798;Stable Disease
+TCGA-NJ-A55O;LUAD;56;FEMALE;Stage IIA;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-95-A4VN;LUAD;62;FEMALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-53-A4EZ;LUAD;63;MALE;Stage IIA;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-44-2665;LUAD;55;FEMALE;Stage IIB;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-69-A59K;LUAD;60;FEMALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-95-7567;LUAD;61;MALE;Stage IIB;Lung Adenocarcinoma;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;Stable Disease
+TCGA-64-5779;LUAD;61;MALE;Stage IIIA;Lung Adenocarcinoma;2009;Alive;TUMOR FREE;#N/A;Distant Metastasis;795;Stable Disease
+TCGA-97-8176;LUAD;63;MALE;Stage IIIA;Lung Adenocarcinoma;2012;Dead;TUMOR FREE;468;Distant Metastasis;39;Stable Disease
+TCGA-50-5942;LUAD;67;FEMALE;Stage IA;Lung Adenocarcinoma;2009;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;1378;Stable Disease
+TCGA-78-7535;LUAD;45;MALE;Stage IB;Lung Adenocarcinoma;2000;Dead;WITH TUMOR;949;#N/A;809;Stable Disease
+TCGA-50-5055;LUAD;79;FEMALE;Stage IIA;Lung Adenocarcinoma;2008;Dead;WITH TUMOR;1830;Locoregional Recurrence|Distant Metastasis;771;Stable Disease
+TCGA-49-4510;LUAD;51;FEMALE;Stage IIB;Lung Adenocarcinoma;2001;Dead;WITH TUMOR;896;Distant Metastasis;502;Stable Disease
+TCGA-69-8453;LUAD;77;MALE;Stage IIB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;344;Stable Disease
+TCGA-86-7714;LUAD;61;FEMALE;Stage IIIA;Lung Adenocarcinoma;2011;Dead;WITH TUMOR;625;#N/A;#N/A;Stable Disease
+TCGA-95-A4VP;LUAD;66;FEMALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;216;Stable Disease
+TCGA-55-6970;LUAD;67;FEMALE;Stage IIIA;Lung Adenocarcinoma;2004;Dead;WITH TUMOR;464;Locoregional Recurrence;457;Stable Disease
+TCGA-38-6178;LUAD;70;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Stable Disease
+TCGA-95-A4VK;LUAD;74;FEMALE;Stage IIIA;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;496;Stable Disease
+TCGA-99-7458;LUAD;74;FEMALE;Stage IIIA;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Stable Disease
+TCGA-NJ-A7XG;LUAD;49;MALE;Stage IIIA;Lung Adenocarcinoma;2013;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Stable Disease
+TCGA-49-AAR4;LUAD;51;MALE;Stage IIIA;Lung Adenocarcinoma;2006;Dead;WITH TUMOR;879;#N/A;#N/A;Stable Disease
+TCGA-55-A48Z;LUAD;60;FEMALE;Stage IIIB;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;536;Stable Disease
+TCGA-73-4670;LUAD;69;FEMALE;Stage IV;Lung Adenocarcinoma;2010;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Stable Disease
+TCGA-55-6968;LUAD;61;MALE;Stage IV;Lung Adenocarcinoma;2004;Dead;WITH TUMOR;1293;#N/A;#N/A;Stable Disease
+TCGA-93-A4JN;LUAD;71;MALE;Stage IV;Lung Adenocarcinoma;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;Stable Disease
