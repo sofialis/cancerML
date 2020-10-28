@@ -1,0 +1,342 @@
+﻿TCGA-F1-6177;STAD;90;MALE;Stage I;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A6RI;STAD;45;MALE;Stage I;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8244;STAD;77;FEMALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G1;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8486;STAD;90;FEMALE;Stage IA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-AB1V;STAD;63;MALE;Stage IA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A6RS;STAD;76;MALE;Stage IA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PX;STAD;51;MALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7703;STAD;81;MALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Papillary Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4GH;STAD;75;MALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A6RJ;STAD;64;MALE;Stage IA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4G6;STAD;74;MALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Papillary Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4G9;STAD;67;FEMALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-HU-8610;STAD;75;MALE;Stage IA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-KB-A93G;STAD;68;MALE;Stage IB;Stomach Adenocarcinoma, Signet Ring Type;G1;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-3M-AB46;STAD;70;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6710;STAD;41;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8679;STAD;63;FEMALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4PE;STAD;68;FEMALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8678;STAD;76;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-A4MJ;STAD;60;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;69;Complete Remission/Response
+TCGA-D7-8578;STAD;72;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence|Distant Metastasis;Lung;#N/A;451;Complete Remission/Response
+TCGA-CG-4436;STAD;57;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4466;STAD;81;FEMALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-ZA-A8F6;STAD;71;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A92D;STAD;67;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6528;STAD;70;FEMALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6822;STAD;77;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8N2;STAD;59;FEMALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;G3;2002;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6522;STAD;58;MALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7707;STAD;69;FEMALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8368;STAD;84;FEMALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-KB-A6F7;STAD;54;FEMALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-F1-6874;STAD;79;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A6F0;STAD;79;FEMALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A6F2;STAD;62;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-SW-A7EA;STAD;61;FEMALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;GX;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4H5;STAD;71;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Papillary Type;GX;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4477;STAD;58;FEMALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2008;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;365;Progressive Disease
+TCGA-CD-5800;STAD;51;FEMALE;Stage II;Stomach, Intestinal Adenocarcinoma, Papillary Type;G1;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-5802;STAD;58;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-5798;STAD;82;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4437;STAD;83;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PZ;STAD;56;FEMALE;Stage II;Stomach Adenocarcinoma, Signet Ring Type;G3;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8N9;STAD;63;FEMALE;Stage II;Stomach, Adenocarcinoma, Diffuse Type;G3;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8530;STAD;51;MALE;Stage II;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8286;STAD;49;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8536;STAD;74;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8533;STAD;48;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;liver and lung;226;Complete Remission/Response
+TCGA-CG-4455;STAD;72;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2008;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-5727;STAD;66;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-5799;STAD;45;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7704;STAD;69;FEMALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8524;STAD;61;FEMALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;69;Complete Remission/Response
+TCGA-BR-7197;STAD;69;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);GX;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4449;STAD;81;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2007;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;336;Partial Remission/Response
+TCGA-D7-6524;STAD;53;MALE;Stage II;Stomach, Adenocarcinoma, Diffuse Type;G3;2010;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;Non-regional / Distant Lymph Nodes;#N/A;543;Progressive Disease
+TCGA-CD-8534;STAD;41;MALE;Stage II;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;Pancreas, Transverse Colon;201;Progressive Disease
+TCGA-HU-A4GP;STAD;62;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Diffuse Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-A48A;STAD;57;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7715;STAD;65;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6801;STAD;70;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-8099;STAD;79;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-A4MH;STAD;86;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J6;STAD;69;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A6RN;STAD;72;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8360;STAD;66;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-F1-A72C;STAD;68;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2013;Alive;WITH TUMOR;#N/A;Distant Metastasis;Liver;#N/A;343;Complete Remission/Response
+TCGA-HU-A4GN;STAD;61;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;Other, specify;thyroid;168;Complete Remission/Response
+TCGA-HU-A4GF;STAD;69;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8604;STAD;82;FEMALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6803;STAD;54;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A44T;STAD;53;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;682;Complete Remission/Response
+TCGA-BR-6453;STAD;54;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6566;STAD;64;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6852;STAD;64;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6457;STAD;69;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6452;STAD;78;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8366;STAD;80;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J9;STAD;55;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-A4BE;STAD;55;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8487;STAD;64;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-AB1X;STAD;78;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6707;STAD;75;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;426;Complete Remission/Response
+TCGA-HU-8245;STAD;72;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Papillary Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4GT;STAD;71;FEMALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8573;STAD;57;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MX-A666;STAD;61;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-B7-A5TJ;STAD;74;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G1;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-KB-A93H;STAD;79;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G1;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7716;STAD;62;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-8211;STAD;62;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8081;STAD;71;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-B7-A5TN;STAD;60;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8572;STAD;57;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-7829;STAD;69;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8579;STAD;66;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8P8;STAD;72;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6815;STAD;70;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6820;STAD;64;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A94U;STAD;70;MALE;Stage IIB;Stomach Adenocarcinoma, Signet Ring Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-B7-5816;STAD;51;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4G2;STAD;45;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-7806;STAD;50;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-A487;STAD;51;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8602;STAD;58;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4G8;STAD;71;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4GU;STAD;73;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J2;STAD;70;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6563;STAD;60;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;New Primary Tumor;#N/A;#N/A;148;Complete Remission/Response
+TCGA-BR-8078;STAD;70;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8381;STAD;51;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8588;STAD;55;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4IY;STAD;58;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A4YX;STAD;63;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4PD;STAD;72;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A6EV;STAD;71;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A7NT;STAD;73;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J7;STAD;49;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8682;STAD;52;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A4Z0;STAD;60;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4H4;STAD;53;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-8462;STAD;80;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;#N/A;#N/A;270;Progressive Disease
+TCGA-VQ-AA6F;STAD;57;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2010;Alive;TUMOR FREE;#N/A;Locoregional Recurrence|New Primary Tumor;Other, specify;#N/A;546;Progressive Disease
+TCGA-HU-A4GD;STAD;56;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Liver;#N/A;399;Progressive Disease
+TCGA-HU-A4G3;STAD;54;MALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-VQ-A8P2;STAD;68;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A91K;STAD;69;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-AA69;STAD;35;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8373;STAD;65;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6526;STAD;67;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8P3;STAD;72;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8249;STAD;76;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A4YT;STAD;56;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-AA6D;STAD;52;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A74A;STAD;61;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A91Z;STAD;67;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;1310;Complete Remission/Response
+TCGA-HU-A4H6;STAD;72;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8N4;STAD;58;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4444;STAD;76;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-6518;STAD;75;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8531;STAD;66;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4IU;STAD;34;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8528;STAD;43;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8535;STAD;59;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6802;STAD;65;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;Distant Metastasis;Non-regional / Distant Lymph Nodes;#N/A;807;Complete Remission/Response
+TCGA-D7-8574;STAD;72;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4CQ;STAD;58;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;#N/A;#N/A;962;Complete Remission/Response
+TCGA-BR-A4QM;STAD;65;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;127;Complete Remission/Response
+TCGA-D7-5579;STAD;74;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8525;STAD;82;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7959;STAD;59;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J5;STAD;56;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-8526;STAD;73;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-KB-A6F5;STAD;73;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-B7-A5TK;STAD;51;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-MX-A5UJ;STAD;86;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A6EX;STAD;72;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-SW-A7EB;STAD;45;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A91V;STAD;58;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Lung;#N/A;504;Progressive Disease
+TCGA-D7-6520;STAD;53;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2010;Alive;WITH TUMOR;#N/A;Distant Metastasis;Liver;#N/A;46;Progressive Disease
+TCGA-HU-A4HD;STAD;73;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-HU-A4GY;STAD;76;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-VQ-A91A;STAD;67;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G1;2011;Alive;TUMOR FREE;#N/A;New Primary Tumor;#N/A;#N/A;129;Complete Remission/Response
+TCGA-BR-8690;STAD;54;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8077;STAD;58;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-AA6B;STAD;48;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8E2;STAD;57;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4H2;STAD;58;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A6ET;STAD;76;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;777;Complete Remission/Response
+TCGA-RD-A8N1;STAD;70;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2001;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8N0;STAD;53;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2006;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8370;STAD;64;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8608;STAD;70;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;Lung;#N/A;277;Complete Remission/Response
+TCGA-BR-8058;STAD;53;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;New Primary Tumor;Other, specify;Rectum;89;Complete Remission/Response
+TCGA-BR-8589;STAD;56;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7958;STAD;60;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4J8;STAD;71;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4PF;STAD;72;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8677;STAD;74;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8369;STAD;76;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;Bone;419;Complete Remission/Response
+TCGA-F1-A448;STAD;70;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8MV;STAD;56;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2001;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8676;STAD;59;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PT;STAD;65;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-AA6J;STAD;75;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8DT;STAD;43;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Alive;WITH TUMOR;#N/A;Distant Metastasis;Liver;#N/A;1376;Complete Remission/Response
+TCGA-VQ-A91E;STAD;67;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8570;STAD;44;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2011;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A91S;STAD;63;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;GX;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A7NU;STAD;69;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;WITH TUMOR;#N/A;Distant Metastasis;#N/A;#N/A;337;Progressive Disease
+TCGA-HU-A4GC;STAD;74;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-D7-A4YY;STAD;61;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-D7-A4YU;STAD;73;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-VQ-AA6A;STAD;56;MALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-AA68;STAD;52;FEMALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8364;STAD;42;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4H0;STAD;72;MALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-7998;STAD;77;MALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-B7-A5TI;STAD;52;MALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-A4GX;STAD;70;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8384;STAD;69;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8372;STAD;63;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8485;STAD;68;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4CR;STAD;70;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8361;STAD;71;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8591;STAD;79;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8380;STAD;55;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Alive;WITH TUMOR;#N/A;Locoregional Recurrence;#N/A;#N/A;467;Complete Remission/Response
+TCGA-HU-A4H3;STAD;56;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;#N/A;410;Progressive Disease
+TCGA-HU-A4GJ;STAD;60;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;ovary;547;Progressive Disease
+TCGA-BR-8297;STAD;58;MALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;GX;2012;Alive;WITH TUMOR;#N/A;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-CD-8529;STAD;65;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2011;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-R5-A7O7;STAD;51;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8680;STAD;45;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-R5-A7ZI;STAD;44;FEMALE;Stage IV;Stomach, Adenocarcinoma, Diffuse Type;G3;2009;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-IN-A7NR;STAD;64;FEMALE;Stage IV;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7196;STAD;64;MALE;Stage IV;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Alive;WITH TUMOR;#N/A;Distant Metastasis;Lung;#N/A;348;Complete Remission/Response
+TCGA-CG-5721;STAD;58;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2005;Alive;TUMOR FREE;#N/A;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8E7;STAD;59;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Alive;WITH TUMOR;#N/A;Distant Metastasis;Other, specify;Adrenal;1048;Stable Disease
+TCGA-F1-6875;STAD;79;MALE;Stage IA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;1996;Dead;TUMOR FREE;2197;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-7735;STAD;77;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;TUMOR FREE;106;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HJ-7597;STAD;71;FEMALE;Stage IB;Stomach Adenocarcinoma, Signet Ring Type;G3;2005;Dead;WITH TUMOR;805;Locoregional Recurrence;#N/A;#N/A;231;Complete Remission/Response
+TCGA-RD-A7BW;STAD;68;FEMALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;G3;2004;Dead;TUMOR FREE;156;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-FP-8209;STAD;49;MALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;G3;2005;Dead;WITH TUMOR;1811;Distant Metastasis;Other, specify;pancreas;1676;Complete Remission/Response
+TCGA-RD-A7C1;STAD;82;MALE;Stage IB;Stomach, Adenocarcinoma, Diffuse Type;G3;2005;Dead;WITH TUMOR;507;Distant Metastasis;Non-regional / Distant Lymph Nodes;#N/A;438;Complete Remission/Response
+TCGA-BR-8363;STAD;73;FEMALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;TUMOR FREE;8;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8DV;STAD;48;MALE;Stage IB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2010;Dead;WITH TUMOR;403;Distant Metastasis;Liver;#N/A;288;Progressive Disease
+TCGA-CG-5725;STAD;72;MALE;Stage IB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2005;Dead;WITH TUMOR;457;#N/A;#N/A;#N/A;153;Progressive Disease
+TCGA-CD-8532;STAD;52;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;WITH TUMOR;354;Locoregional Recurrence;#N/A;#N/A;282;Complete Remission/Response
+TCGA-CD-8527;STAD;72;FEMALE;Stage II;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2010;Dead;WITH TUMOR;218;Distant Metastasis;Liver;#N/A;159;Complete Remission/Response
+TCGA-VQ-A8PB;STAD;65;FEMALE;Stage II;Stomach, Intestinal Adenocarcinoma, Papillary Type;G2;2011;Dead;TUMOR FREE;1043;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-5813;STAD;60;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2010;Dead;WITH TUMOR;377;Distant Metastasis;Liver;#N/A;315;Complete Remission/Response
+TCGA-D7-6527;STAD;62;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Papillary Type;G2;2010;Dead;WITH TUMOR;312;Distant Metastasis;Liver;#N/A;75;Progressive Disease
+TCGA-VQ-A924;STAD;69;MALE;Stage II;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2008;Dead;WITH TUMOR;1686;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-CG-5717;STAD;58;MALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2006;Dead;WITH TUMOR;212;#N/A;#N/A;#N/A;120;Progressive Disease
+TCGA-CD-5803;STAD;78;FEMALE;Stage II;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Dead;WITH TUMOR;341;Distant Metastasis;Liver;#N/A;300;Progressive Disease
+TCGA-CD-A486;STAD;68;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;WITH TUMOR;192;Distant Metastasis;Liver;liver and lung;79;Complete Remission/Response
+TCGA-VQ-A8DL;STAD;69;FEMALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Dead;TUMOR FREE;28;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CD-A489;STAD;58;MALE;Stage IIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;WITH TUMOR;344;Locoregional Recurrence;#N/A;#N/A;277;Complete Remission/Response
+TCGA-CD-A4MG;STAD;76;MALE;Stage IIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;WITH TUMOR;200;Locoregional Recurrence;#N/A;#N/A;74;Complete Remission/Response
+TCGA-MX-A663;STAD;66;MALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;WITH TUMOR;300;Distant Metastasis;Other, specify;Liver and left supraclavicular lymph node;218;Complete Remission/Response
+TCGA-BR-A4QI;STAD;70;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;WITH TUMOR;652;Distant Metastasis;Other, specify;Pancreas;383;Complete Remission/Response
+TCGA-VQ-AA6G;STAD;68;MALE;Stage IIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;WITH TUMOR;792;Distant Metastasis;Lung;#N/A;469;Progressive Disease
+TCGA-BR-8365;STAD;70;FEMALE;Stage IIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;533;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-BR-6456;STAD;74;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;TUMOR FREE;526;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-7901;STAD;74;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;TUMOR FREE;105;Locoregional Recurrence;#N/A;#N/A;91;Complete Remission/Response
+TCGA-HU-A4HB;STAD;68;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Dead;WITH TUMOR;477;Distant Metastasis;#N/A;#N/A;390;Complete Remission/Response
+TCGA-BR-7722;STAD;62;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;466;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8060;STAD;75;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;348;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6458;STAD;57;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;588;Distant Metastasis;Liver;#N/A;574;Complete Remission/Response
+TCGA-CD-A48C;STAD;79;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;353;Locoregional Recurrence;#N/A;#N/A;230;Complete Remission/Response
+TCGA-D7-A4YV;STAD;69;FEMALE;Stage IIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;180;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8291;STAD;61;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;GX;2011;Dead;TUMOR FREE;607;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-A747;STAD;57;MALE;Stage IIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2013;Dead;WITH TUMOR;255;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-BR-8295;STAD;60;FEMALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;67;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-BR-6565;STAD;67;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;WITH TUMOR;279;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-BR-6455;STAD;59;MALE;Stage IIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;422;Distant Metastasis;Liver;#N/A;385;Stable Disease
+TCGA-BR-8059;STAD;72;MALE;Stage III;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;439;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-R5-A7ZR;STAD;70;FEMALE;Stage III;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2008;Dead;WITH TUMOR;185;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-CD-A4MI;STAD;62;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G1;2011;Dead;WITH TUMOR;358;Locoregional Recurrence;#N/A;#N/A;271;Complete Remission/Response
+TCGA-BR-8484;STAD;61;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Dead;TUMOR FREE;766;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8N5;STAD;78;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G2;2006;Dead;TUMOR FREE;1747;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-6564;STAD;46;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;TUMOR FREE;794;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A7BS;STAD;46;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2001;Dead;WITH TUMOR;336;Distant Metastasis;Liver;#N/A;244;Complete Remission/Response
+TCGA-BR-6706;STAD;63;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Dead;WITH TUMOR;549;Locoregional Recurrence;#N/A;#N/A;402;Complete Remission/Response
+TCGA-RD-A8N6;STAD;78;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2006;Dead;WITH TUMOR;272;Distant Metastasis;Liver;#N/A;163;Complete Remission/Response
+TCGA-D7-A6EZ;STAD;66;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2013;Dead;WITH TUMOR;618;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A923;STAD;90;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2008;Dead;TUMOR FREE;61;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A452;STAD;57;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;229;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PU;STAD;72;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;832;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8575;STAD;75;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;WITH TUMOR;554;Distant Metastasis;Peritoneal Surfaces;#N/A;427;Complete Remission/Response
+TCGA-RD-A8NB;STAD;80;FEMALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2000;Dead;WITH TUMOR;513;Distant Metastasis;Non-regional / Distant Lymph Nodes;#N/A;230;Partial Remission/Response
+TCGA-VQ-A8PS;STAD;76;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2009;Dead;WITH TUMOR;406;Distant Metastasis;Liver;#N/A;131;Progressive Disease
+TCGA-D7-5577;STAD;53;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Dead;WITH TUMOR;782;Distant Metastasis;Other, specify;liver,  peritoneal surfaces, non-regional/distant lymph nodes;376;Progressive Disease
+TCGA-VQ-A8DU;STAD;63;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Dead;WITH TUMOR;166;Distant Metastasis;Liver;#N/A;158;Progressive Disease
+TCGA-R5-A7ZE;STAD;66;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Dead;WITH TUMOR;554;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A925;STAD;66;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Dead;WITH TUMOR;138;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A8PC;STAD;65;MALE;Stage IIIA;Stomach Adenocarcinoma, Signet Ring Type;G3;2009;Dead;WITH TUMOR;1407;Locoregional Recurrence;#N/A;#N/A;1287;Progressive Disease
+TCGA-FP-A4BF;STAD;68;MALE;Stage IIIA;Stomach Adenocarcinoma, Signet Ring Type;G3;2011;Dead;WITH TUMOR;168;Distant Metastasis;Lung;#N/A;159;Progressive Disease
+TCGA-FP-8210;STAD;48;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2006;Dead;WITH TUMOR;153;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-D7-6525;STAD;58;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2010;Dead;WITH TUMOR;406;Distant Metastasis;#N/A;#N/A;171;Progressive Disease
+TCGA-D7-6818;STAD;53;MALE;Stage IIIA;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;WITH TUMOR;376;Locoregional Recurrence;#N/A;#N/A;247;Progressive Disease
+TCGA-CD-5801;STAD;69;MALE;Stage IIIA;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Dead;WITH TUMOR;401;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-CG-5733;STAD;83;FEMALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2003;Dead;WITH TUMOR;641;#N/A;#N/A;#N/A;427;Progressive Disease
+TCGA-VQ-A8E0;STAD;68;MALE;Stage IIIA;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;562;Distant Metastasis;Liver;#N/A;531;Progressive Disease
+TCGA-BR-A4QL;STAD;75;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Dead;TUMOR FREE;491;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PY;STAD;47;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2009;Dead;TUMOR FREE;436;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8592;STAD;63;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Dead;TUMOR FREE;191;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4IV;STAD;47;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Dead;WITH TUMOR;869;Locoregional Recurrence;#N/A;#N/A;737;Complete Remission/Response
+TCGA-BR-A44U;STAD;70;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;TUMOR FREE;422;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8367;STAD;55;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;801;Distant Metastasis;Other, specify;Adrenal gland, bone;580;Complete Remission/Response
+TCGA-BR-7723;STAD;59;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;874;Distant Metastasis;Liver;#N/A;559;Complete Remission/Response
+TCGA-BR-6705;STAD;68;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;779;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A91X;STAD;74;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2010;Dead;TUMOR FREE;289;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-RD-A8MW;STAD;72;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2004;Dead;WITH TUMOR;1153;Distant Metastasis;Peritoneal Surfaces;#N/A;98;Complete Remission/Response
+TCGA-BR-8686;STAD;69;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;635;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8683;STAD;75;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;300;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A8PF;STAD;76;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;TUMOR FREE;76;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-D7-8576;STAD;54;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;WITH TUMOR;446;Locoregional Recurrence|Distant Metastasis;Lung;#N/A;204;Complete Remission/Response
+TCGA-BR-6709;STAD;57;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;370;#N/A;#N/A;#N/A;#N/A;Partial Remission/Response
+TCGA-VQ-A8PK;STAD;58;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;WITH TUMOR;543;Locoregional Recurrence|Distant Metastasis;Liver;#N/A;263;Progressive Disease
+TCGA-VQ-A8PH;STAD;62;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2010;Dead;WITH TUMOR;389;Locoregional Recurrence;#N/A;#N/A;377;Progressive Disease
+TCGA-BR-A4IZ;STAD;45;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2012;Dead;TUMOR FREE;273;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A94T;STAD;73;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;WITH TUMOR;342;Locoregional Recurrence;#N/A;#N/A;296;Progressive Disease
+TCGA-D7-A74B;STAD;52;FEMALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G3;2013;Dead;WITH TUMOR;217;Locoregional Recurrence;#N/A;#N/A;174;Progressive Disease
+TCGA-BR-8371;STAD;62;MALE;Stage IIIB;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;359;Distant Metastasis;Other, specify;Brain;357;Progressive Disease
+TCGA-VQ-AA6I;STAD;68;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;WITH TUMOR;491;Locoregional Recurrence;#N/A;#N/A;475;Progressive Disease
+TCGA-VQ-A8PE;STAD;78;MALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2012;Dead;WITH TUMOR;675;Locoregional Recurrence;#N/A;#N/A;265;Progressive Disease
+TCGA-D7-A6EY;STAD;72;FEMALE;Stage IIIB;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2013;Dead;WITH TUMOR;348;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A927;STAD;81;MALE;Stage IIIB;Stomach, Adenocarcinoma, Diffuse Type;G1;2013;Dead;WITH TUMOR;200;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-BR-8382;STAD;67;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;762;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A4CS;STAD;77;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;TUMOR FREE;45;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8590;STAD;62;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;284;Distant Metastasis;Lung;#N/A;223;Complete Remission/Response
+TCGA-BR-8362;STAD;65;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;WITH TUMOR;398;Distant Metastasis;Non-regional / Distant Lymph Nodes;#N/A;356;Complete Remission/Response
+TCGA-BR-8080;STAD;72;FEMALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Mucinous Type;G3;2011;Dead;TUMOR FREE;292;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8285;STAD;57;FEMALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;17;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8284;STAD;72;FEMALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;245;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-HU-8243;STAD;66;MALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2011;Dead;WITH TUMOR;180;Distant Metastasis;Liver;#N/A;132;Partial Remission/Response
+TCGA-VQ-A8PD;STAD;69;MALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Dead;WITH TUMOR;496;Distant Metastasis;Other, specify;#N/A;134;Progressive Disease
+TCGA-VQ-A91D;STAD;70;MALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2010;Dead;WITH TUMOR;356;Locoregional Recurrence;#N/A;#N/A;351;Progressive Disease
+TCGA-VQ-A94O;STAD;74;MALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2012;Dead;WITH TUMOR;640;Distant Metastasis;Liver;#N/A;185;Progressive Disease
+TCGA-VQ-AA6K;STAD;59;MALE;Stage IIIC;Stomach Adenocarcinoma, Signet Ring Type;G3;2012;Dead;WITH TUMOR;378;Locoregional Recurrence;#N/A;#N/A;332;Progressive Disease
+TCGA-FP-7916;STAD;77;MALE;Stage IIIC;Stomach, Adenocarcinoma, Diffuse Type;G3;2011;Dead;WITH TUMOR;428;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A91Y;STAD;67;MALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2011;Dead;WITH TUMOR;296;Distant Metastasis;Lung;#N/A;258;Progressive Disease
+TCGA-BR-8687;STAD;67;FEMALE;Stage IIIC;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G3;2012;Dead;WITH TUMOR;250;#N/A;#N/A;#N/A;#N/A;Stable Disease
+TCGA-BR-8296;STAD;58;FEMALE;Stage IIIC;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;WITH TUMOR;474;Distant Metastasis;Liver;#N/A;390;Stable Disease
+TCGA-BR-7717;STAD;63;MALE;Stage IV;Stomach, Adenocarcinoma, Not Otherwise Specified (NOS);G2;2011;Dead;TUMOR FREE;552;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-A453;STAD;51;MALE;Stage IV;Stomach Adenocarcinoma, Signet Ring Type;G3;2012;Dead;TUMOR FREE;185;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-BR-8289;STAD;57;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2011;Dead;TUMOR FREE;81;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-VQ-A91Q;STAD;61;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G3;2009;Dead;WITH TUMOR;633;Locoregional Recurrence;#N/A;#N/A;551;Complete Remission/Response
+TCGA-BR-7957;STAD;50;FEMALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);GX;2011;Dead;TUMOR FREE;276;#N/A;#N/A;#N/A;#N/A;Complete Remission/Response
+TCGA-CG-4460;STAD;66;FEMALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G2;2008;Dead;WITH TUMOR;669;#N/A;#N/A;#N/A;487;Partial Remission/Response
+TCGA-VQ-A928;STAD;49;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Papillary Type;G2;2010;Dead;WITH TUMOR;174;Distant Metastasis;Liver;#N/A;148;Progressive Disease
+TCGA-VQ-A8PQ;STAD;50;FEMALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2008;Dead;WITH TUMOR;476;Locoregional Recurrence;#N/A;#N/A;91;Progressive Disease
+TCGA-VQ-A8PP;STAD;76;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2008;Dead;WITH TUMOR;712;Locoregional Recurrence;#N/A;#N/A;502;Progressive Disease
+TCGA-VQ-A91N;STAD;59;FEMALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2009;Dead;WITH TUMOR;570;Locoregional Recurrence;#N/A;#N/A;438;Progressive Disease
+TCGA-R5-A7ZF;STAD;65;FEMALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;G2;2012;Dead;WITH TUMOR;259;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-VQ-A8DZ;STAD;70;MALE;Stage IV;Stomach Adenocarcinoma, Signet Ring Type;G3;2011;Dead;WITH TUMOR;396;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-CG-5724;STAD;59;MALE;Stage IV;Stomach, Adenocarcinoma, Diffuse Type;G3;2003;Dead;WITH TUMOR;366;#N/A;#N/A;#N/A;122;Progressive Disease
+TCGA-R5-A804;STAD;54;MALE;Stage IV;Stomach, Adenocarcinoma, Diffuse Type;G3;2005;Dead;WITH TUMOR;140;#N/A;#N/A;#N/A;#N/A;Progressive Disease
+TCGA-D7-A748;STAD;41;FEMALE;Stage IV;Stomach, Adenocarcinoma, Diffuse Type;G3;2013;Dead;WITH TUMOR;132;Locoregional Recurrence|Distant Metastasis;#N/A;#N/A;99;Progressive Disease
+TCGA-RD-A7BT;STAD;66;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS);G3;2002;Dead;WITH TUMOR;262;Distant Metastasis;Other, specify;Adrenal gland;123;Progressive Disease
+TCGA-VQ-A8PJ;STAD;53;MALE;Stage IV;Stomach, Intestinal Adenocarcinoma, Tubular Type;GX;2011;Dead;WITH TUMOR;82;#N/A;#N/A;#N/A;#N/A;Progressive Disease
