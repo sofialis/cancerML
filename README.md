@@ -3,5 +3,7 @@ This is a machine learning project focused on cancer outcome analytics based on 
 Binary:
 - init_data (completed)
 - functions
-    - self-implemented functions (completed)
-    - vital status (wip) - check cross-validation + add comments + rename functions!
+    - helper functions (completed)
+    - vital status (completed)
+    - death days to (completed)
+    - outcome (wip)
